@@ -1,15 +1,48 @@
+# Dependências instaladas
+node_modules/
+
+# Builds e caches locais
+.next/
+/out/
+/dist/
+/build/
+.cache/
+.vercel/
+.turbo/
+*.tsbuildinfo
+.eslintcache
+.stylelintcache
+
+# Ambiente e credenciais: apenas o modelo revisado é versionado
+.env*
+!config/.env.example
+*.local
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+.netrc
+
+# Logs, execução e testes
+*.log
+.taste-skill/runtime/
+playwright-report/
+test-results/
+coverage/
+
+# Configurações pessoais do editor e arquivos do sistema
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# Ambientes Python antigos ou criados por ferramentas locais
 .venv/
 __pycache__/
 *.py[cod]
-.env
-.taste-skill/runtime/
-node_modules/
-.cache/
-playwright-report/
-test-results/
-.next/
-.vercel/
-*.tsbuildinfo
-.env.*
-!.env.example
-!config/.env.example
