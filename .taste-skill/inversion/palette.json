@@ -1,0 +1,306 @@
+{
+  "viewports": [
+    {
+      "width": 1440,
+      "palette": {
+        "body": {
+          "background": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "dark"
+        },
+        "strip": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "scheme": "light"
+        },
+        "moments": {
+          "background": "rgb(11, 11, 13)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "dark"
+        },
+        "form": {
+          "background": "rgb(11, 11, 13)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "dark"
+        },
+        "primary": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "scheme": "dark"
+        },
+        "visit": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "scheme": "light"
+        },
+        "inverse": {
+          "background": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "light"
+        },
+        "radioScheme": "dark",
+        "logos": [
+          "invert(1)",
+          "invert(1)"
+        ],
+        "photos": [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ],
+        "muted": "rgb(170, 170, 170)",
+        "selection": {
+          "background": "rgb(201, 149, 104)",
+          "color": "rgb(0, 0, 0)"
+        }
+      },
+      "contrast": {
+        "body": 21,
+        "strip": 21,
+        "visit": 21,
+        "primary": 21,
+        "inverse": 21,
+        "selection": 7.98,
+        "muted": 9.04
+      },
+      "focus": {
+        "primary": {
+          "visible": true,
+          "color": "rgb(201, 149, 104)",
+          "width": "3px",
+          "style": "solid",
+          "contrast": 7.98
+        },
+        "radio": {
+          "visible": true,
+          "color": "rgb(255, 255, 255)",
+          "width": "3px",
+          "style": "solid",
+          "contrast": 19.66
+        },
+        "inverse": {
+          "visible": true,
+          "color": "rgb(128, 90, 57)",
+          "width": "3px",
+          "style": "solid",
+          "contrast": 6.11
+        }
+      }
+    },
+    {
+      "width": 768,
+      "palette": {
+        "body": {
+          "background": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "dark"
+        },
+        "strip": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "scheme": "light"
+        },
+        "moments": {
+          "background": "rgb(11, 11, 13)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "dark"
+        },
+        "form": {
+          "background": "rgb(11, 11, 13)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "dark"
+        },
+        "primary": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "scheme": "dark"
+        },
+        "visit": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "scheme": "light"
+        },
+        "inverse": {
+          "background": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "light"
+        },
+        "radioScheme": "dark",
+        "logos": [
+          "invert(1)",
+          "invert(1)"
+        ],
+        "photos": [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ],
+        "muted": "rgb(170, 170, 170)",
+        "selection": {
+          "background": "rgb(201, 149, 104)",
+          "color": "rgb(0, 0, 0)"
+        }
+      },
+      "contrast": {
+        "body": 21,
+        "strip": 21,
+        "visit": 21,
+        "primary": 21,
+        "inverse": 21,
+        "selection": 7.98,
+        "muted": 9.04
+      },
+      "focus": {
+        "primary": {
+          "visible": true,
+          "color": "rgb(201, 149, 104)",
+          "width": "3px",
+          "style": "solid",
+          "contrast": 7.98
+        },
+        "radio": {
+          "visible": true,
+          "color": "rgb(255, 255, 255)",
+          "width": "3px",
+          "style": "solid",
+          "contrast": 19.66
+        },
+        "inverse": {
+          "visible": true,
+          "color": "rgb(128, 90, 57)",
+          "width": "3px",
+          "style": "solid",
+          "contrast": 6.11
+        }
+      }
+    },
+    {
+      "width": 390,
+      "palette": {
+        "body": {
+          "background": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "dark"
+        },
+        "strip": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "scheme": "light"
+        },
+        "moments": {
+          "background": "rgb(11, 11, 13)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "dark"
+        },
+        "form": {
+          "background": "rgb(11, 11, 13)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "dark"
+        },
+        "primary": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "scheme": "dark"
+        },
+        "visit": {
+          "background": "rgb(255, 255, 255)",
+          "color": "rgb(0, 0, 0)",
+          "scheme": "light"
+        },
+        "inverse": {
+          "background": "rgb(0, 0, 0)",
+          "color": "rgb(255, 255, 255)",
+          "scheme": "light"
+        },
+        "radioScheme": "dark",
+        "logos": [
+          "invert(1)",
+          "invert(1)"
+        ],
+        "photos": [
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none",
+          "none"
+        ],
+        "muted": "rgb(170, 170, 170)",
+        "selection": {
+          "background": "rgb(201, 149, 104)",
+          "color": "rgb(0, 0, 0)"
+        }
+      },
+      "contrast": {
+        "body": 21,
+        "strip": 21,
+        "visit": 21,
+        "primary": 21,
+        "inverse": 21,
+        "selection": 7.98,
+        "muted": 9.04
+      },
+      "focus": {
+        "primary": {
+          "visible": true,
+          "color": "rgb(201, 149, 104)",
+          "width": "3px",
+          "style": "solid",
+          "contrast": 7.98
+        },
+        "radio": {
+          "visible": true,
+          "color": "rgb(255, 255, 255)",
+          "width": "3px",
+          "style": "solid",
+          "contrast": 19.66
+        },
+        "inverse": {
+          "visible": true,
+          "color": "rgb(128, 90, 57)",
+          "width": "3px",
+          "style": "solid",
+          "contrast": 6.11
+        }
+      }
+    }
+  ],
+  "checks": [
+    "Black and white roles inverted",
+    "Dark neutral panels and native radios",
+    "Only logos inverted; photos unchanged",
+    "Text and hover contrast >= 4.5:1",
+    "Focus visible with contrast >= 3:1",
+    "Black browser theme color"
+  ]
+}

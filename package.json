@@ -1,0 +1,37 @@
+{
+  "name": "land-cafeteria",
+  "private": true,
+  "type": "module",
+  "description": "Landing page do Café 40 em Next.js e TypeScript, preparada para a Vercel.",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1 --port 5021",
+    "dev:open": "node --experimental-strip-types scripts/development/dev.ts --open",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0 --port 5021",
+    "typecheck": "next typegen && tsc --noEmit",
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "qa:http": "node --experimental-strip-types scripts/review/qa-http.ts",
+    "qa:browser": "node --import ./config/browser/skillui-env.mjs ./scripts/review/qa-browser.mjs",
+    "skillui": "node --import ./config/browser/skillui-env.mjs ./config/research/node_modules/skillui/dist/cli.js",
+    "research:install": "npm --prefix config/research ci --no-audit --no-fund",
+    "skillui:setup": "node --import ./config/browser/skillui-env.mjs ./node_modules/playwright/cli.js install chromium",
+    "taste:draw": "node .agents/skills/design-taste-frontend/scripts/draw.mjs",
+    "taste:lint": "node .agents/skills/design-taste-frontend/scripts/lint.mjs",
+    "taste:inspect": "node --import ./config/browser/browser-env.mjs .agents/skills/design-taste-frontend/scripts/inspect.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "playwright": "1.64.1",
+    "typescript": "5.9.3"
+  },
+  "dependencies": {
+    "next": "16.4.5",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}

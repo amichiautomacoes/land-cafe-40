@@ -1,0 +1,98 @@
+{
+  "url": "https://cardapio.takeat.app/cafe40",
+  "title": "Garçom Digital",
+  "description": "Aplicação web para pedidos em restaurantes",
+  "text": "Café40\nCardápio\n\nCategorias\n\nPratos Quentes\nCombos Do Dia\nBebidas Quentes\nBebidas Geladas\nBebidas Iced\nBolo do Dia\nVinhos e Espumantes\nChás\nSanduiches\nPratos Quentes\nDom\nSeg\nTer\nQua\nQui\nSex\nSab\nCombos Do Dia\nDom\nSeg\nTer\nQua\nQui\nSex\nSab\nBebidas Quentes\nDom\nSeg\nTer\nQua\nQui\nSex\nSab\nDas 07:00 às 23:00\nBebidas Geladas\nDom\nSeg\nTer\nQua\nQui\nSex\nSab\nDas 07:00 às 22:00\nBebidas Iced\nDom\nSeg\nTer\nQua\nQui\nSex\nSab\nDas 07:00 às 23:00\nBolo do Dia\nDom\nSeg\nTer\nQua\nQui\nSex\nSab\nDas 07:00 às 23:00\nVinhos e Espumantes\nDom\nSeg\nTer\nQua\nQui\nSex\nSab\nChás\nDom\nSeg\nTer\nQua\nQui\nSex\nSab\nSanduiches\nDom\nSeg\nTer\nQua\nQui\nSex\nSab\nPedir Delivery",
+  "images": [
+    {
+      "src": "https://takeat-imgs.takeat.app/839fece6ea5529e02cfdf9055e18cb14.webp",
+      "alt": "",
+      "width": 300,
+      "height": 180
+    },
+    {
+      "src": "https://takeat-imgs.takeat.app/cb36866c4b27f7c2434d30362eddc486.webp",
+      "alt": "",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "src": "https://takeat-imgs.takeat.app/7a5ed09609883ab93868011c1ceab5e8.webp",
+      "alt": "",
+      "width": 300,
+      "height": 330
+    },
+    {
+      "src": "https://takeat-imgs.takeat.app/559cf882b9a52847aaacafee1ec89252.webp",
+      "alt": "",
+      "width": 300,
+      "height": 759
+    },
+    {
+      "src": "https://takeat-imgs.takeat.app/ce9ccb80a0d03121333e88892296016d.webp",
+      "alt": "",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "src": "https://takeat-imgs.takeat.app/893d0cf86607860d49591d7d74fae495.webp",
+      "alt": "",
+      "width": 300,
+      "height": 200
+    },
+    {
+      "src": "https://takeat-imgs.takeat.app/8ddfeab2343ce54cfa6ff60ad168d142.webp",
+      "alt": "",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "src": "https://takeat-imgs.takeat.app/e3084aa2a9a7defdcc4ef2ee8e9207d3.webp",
+      "alt": "",
+      "width": 510,
+      "height": 510
+    },
+    {
+      "src": "https://takeat-imgs.takeat.app/401157afc5b997e3f8894bf1744b4490.webp",
+      "alt": "",
+      "width": 992,
+      "height": 1323
+    },
+    {
+      "src": "https://cardapio.takeat.app/assets/ERROR-DKrRelYS.png",
+      "alt": "ilustracao de erro ao fazer pedido",
+      "width": 417,
+      "height": 455
+    },
+    {
+      "src": "https://cardapio.takeat.app/assets/ERROR-DKrRelYS.png",
+      "alt": "ilustracao de erro ao fazer pedido",
+      "width": 417,
+      "height": 455
+    }
+  ],
+  "links": [],
+  "themeColor": "#000000",
+  "headings": [
+    {
+      "text": "Café40",
+      "fontFamily": "Poppins, sans-serif",
+      "fontSize": "24px",
+      "color": "rgb(34, 34, 34)"
+    },
+    {
+      "text": "Erro ao fazer pedido!",
+      "fontFamily": "Poppins, sans-serif",
+      "fontSize": "20px",
+      "color": "rgb(51, 51, 51)"
+    },
+    {
+      "text": "Erro ao fazer pedido!",
+      "fontFamily": "Poppins, sans-serif",
+      "fontSize": "20px",
+      "color": "rgb(51, 51, 51)"
+    }
+  ],
+  "httpStatus": 200,
+  "checkedOn": "2026-10-23"
+}

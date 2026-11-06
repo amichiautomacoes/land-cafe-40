@@ -1,0 +1,18 @@
+{
+  "documentationLinks": 73,
+  "brokenLinks": [],
+  "unchangedPublicAssets": [
+    "public/static/images/brand/logo.jpg",
+    "public/static/images/cafe40/bolo-chocolate.webp",
+    "public/static/images/cafe40/cappuccino.jpg",
+    "public/static/images/cafe40/fachada-dia.jpg",
+    "public/static/images/cafe40/fachada.webp",
+    "public/static/images/cafe40/mesa.jpg",
+    "public/static/fonts/OFL.txt",
+    "public/static/fonts/poppins-400.ttf",
+    "public/static/fonts/poppins-500.ttf",
+    "public/static/fonts/poppins-600.ttf",
+    "public/static/fonts/poppins-700.ttf"
+  ],
+  "activePythonSources": []
+}

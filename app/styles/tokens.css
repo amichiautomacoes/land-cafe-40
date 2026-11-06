@@ -1,0 +1,50 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("/static/fonts/poppins-400.ttf") format("truetype");
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("/static/fonts/poppins-500.ttf") format("truetype");
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("/static/fonts/poppins-600.ttf") format("truetype");
+  font-weight: 600;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppins";
+  src: url("/static/fonts/poppins-700.ttf") format("truetype");
+  font-weight: 700;
+  font-display: swap;
+}
+
+:root {
+  color-scheme: dark;
+  --font-body: "Poppins", sans-serif;
+  --color-background: #000000;
+  --color-ink: #ffffff;
+  --color-inverse: #000000;
+  --color-surface: #0b0b0d;
+  --color-muted: #aaaaaa;
+  --color-accent: #c99568;
+  --color-on-accent: #000000;
+  --color-focus: var(--color-accent);
+  --color-focus-on-inverse: #805a39;
+  --color-action: var(--color-ink);
+  --color-on-action: var(--color-inverse);
+  --margin: clamp(1.25rem, 2.23vw, 2rem);
+  --gutter: clamp(1rem, 2vw, 2rem);
+  --space-section: clamp(5rem, 10vw, 9rem);
+  --size-body: clamp(1rem, 0.94rem + 0.25vw, 1.125rem);
+  --size-lead: clamp(1.125rem, 1rem + 0.45vw, 1.5rem);
+  --size-heading: clamp(2rem, 1.3rem + 2.6vw, 3.75rem);
+  --size-display: clamp(2.75rem, 1.6rem + 4.4vw, 5.5rem);
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --time-hover: 180ms;
+  --time-reveal: 800ms;
+}

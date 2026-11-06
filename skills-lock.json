@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "skills": {
+    "design-taste-frontend": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "048a9bff8064f1efa51c2733558428ac93a0d8398e33ad11e7b68500f8e0525f"
+    },
+    "skillui": {
+      "source": "Roentek/Claude_Code_Boilerplate_Framework",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/skillui/SKILL.md"
+    }
+  }
+}

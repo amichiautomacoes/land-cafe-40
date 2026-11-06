@@ -1,0 +1,44 @@
+{
+  "credits": [
+    {
+      "file": "cappuccino.jpg",
+      "source": "https://www.instagram.com/thaysantos.mkt/reel/DeojOSbx2K3/",
+      "creator": "Thay Santos",
+      "context": "Publicacao exibida no perfil do Cafe 40; miniatura do reel. Uso na previa local do projeto.",
+      "checkedOn": "2026-10-23"
+    },
+    {
+      "file": "fachada-dia.jpg",
+      "source": "https://www.instagram.com/cafedasprotagonistas/reel/DevJxj6Mm-u/",
+      "creator": "Café das Protagonistas",
+      "context": "Miniatura de publicacao exibida no perfil do Cafe 40; previa local.",
+      "checkedOn": "2026-10-23"
+    },
+    {
+      "file": "mesa.jpg",
+      "source": "https://www.instagram.com/bessaoliverr/reel/DbBjzjtR7_a/",
+      "creator": "Emanuele Bessa",
+      "context": "Miniatura de publicacao exibida no perfil do Cafe 40; previa local.",
+      "checkedOn": "2026-10-23"
+    }
+  ],
+  "fonts": {
+    "family": "Poppins",
+    "cssSource": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap",
+    "license": "SIL Open Font License 1.1"
+  },
+  "originalPhotos": [
+    {
+      "file": "bolo-chocolate.webp",
+      "source": "https://www.instagram.com/cafe40.ni/p/DUq9l6AEvAp/",
+      "width": 1440,
+      "height": 1920
+    },
+    {
+      "file": "fachada.webp",
+      "source": "https://www.instagram.com/cafe40.ni/p/DcE9_1EGfSU/",
+      "width": 1440,
+      "height": 1920
+    }
+  ]
+}

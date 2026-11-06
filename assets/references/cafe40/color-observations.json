@@ -1,0 +1,297 @@
+{
+  "method": "RGB pixels grouped into bins of 16 per channel, with mean RGB per bin. Warm-lettering mask: left 48% of anniversary art; 100 < R < 235, R-G > 25, G-B > 10. Approximate raster observations, not official brand tokens.",
+  "checkedOn": "2026-10-23",
+  "observations": [
+    {
+      "file": "../../brand/logo-instagram.jpg",
+      "width": 150,
+      "height": 150,
+      "dominant": [
+        {
+          "hex": "#FFFFFF",
+          "pixels": 21333,
+          "proportion": 0.9481
+        },
+        {
+          "hex": "#030303",
+          "pixels": 394,
+          "proportion": 0.0175
+        },
+        {
+          "hex": "#E8E8E8",
+          "pixels": 116,
+          "proportion": 0.0052
+        },
+        {
+          "hex": "#272727",
+          "pixels": 74,
+          "proportion": 0.0033
+        },
+        {
+          "hex": "#B8B8B8",
+          "pixels": 73,
+          "proportion": 0.0032
+        }
+      ],
+      "warmLettering": [],
+      "samples": [
+        {
+          "x": 0,
+          "y": 0,
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "x": 10,
+          "y": 100,
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        },
+        {
+          "x": 100,
+          "y": 100,
+          "rgb": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "file": "../../originals/cafe40/post-horarios.webp",
+      "width": 480,
+      "height": 640,
+      "dominant": [
+        {
+          "hex": "#C7BEAC",
+          "pixels": 72588,
+          "proportion": 0.2363
+        },
+        {
+          "hex": "#070502",
+          "pixels": 42096,
+          "proportion": 0.137
+        },
+        {
+          "hex": "#1A1409",
+          "pixels": 31508,
+          "proportion": 0.1026
+        },
+        {
+          "hex": "#44341A",
+          "pixels": 25058,
+          "proportion": 0.0816
+        },
+        {
+          "hex": "#372918",
+          "pixels": 16436,
+          "proportion": 0.0535
+        }
+      ],
+      "warmLettering": [],
+      "samples": [
+        {
+          "x": 0,
+          "y": 0,
+          "rgb": [
+            9,
+            5,
+            2
+          ]
+        },
+        {
+          "x": 10,
+          "y": 100,
+          "rgb": [
+            43,
+            36,
+            20
+          ]
+        },
+        {
+          "x": 20,
+          "y": 300,
+          "rgb": [
+            28,
+            21,
+            11
+          ]
+        },
+        {
+          "x": 100,
+          "y": 100,
+          "rgb": [
+            26,
+            13,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "file": "../../originals/cafe40/post-reservas.webp",
+      "width": 480,
+      "height": 640,
+      "dominant": [
+        {
+          "hex": "#020719",
+          "pixels": 230040,
+          "proportion": 0.7488
+        },
+        {
+          "hex": "#010208",
+          "pixels": 36947,
+          "proportion": 0.1203
+        },
+        {
+          "hex": "#F9FCFE",
+          "pixels": 6351,
+          "proportion": 0.0207
+        },
+        {
+          "hex": "#0B101E",
+          "pixels": 5160,
+          "proportion": 0.0168
+        },
+        {
+          "hex": "#151825",
+          "pixels": 2858,
+          "proportion": 0.0093
+        }
+      ],
+      "warmLettering": [],
+      "samples": [
+        {
+          "x": 0,
+          "y": 0,
+          "rgb": [
+            2,
+            7,
+            26
+          ]
+        },
+        {
+          "x": 10,
+          "y": 100,
+          "rgb": [
+            2,
+            7,
+            26
+          ]
+        },
+        {
+          "x": 20,
+          "y": 300,
+          "rgb": [
+            2,
+            7,
+            26
+          ]
+        },
+        {
+          "x": 100,
+          "y": 100,
+          "rgb": [
+            1,
+            8,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "file": "../../originals/cafe40/post-aviso-agosto.jpg",
+      "width": 640,
+      "height": 640,
+      "dominant": [
+        {
+          "hex": "#040201",
+          "pixels": 239637,
+          "proportion": 0.5851
+        },
+        {
+          "hex": "#150903",
+          "pixels": 29702,
+          "proportion": 0.0725
+        },
+        {
+          "hex": "#271407",
+          "pixels": 6782,
+          "proportion": 0.0166
+        },
+        {
+          "hex": "#371905",
+          "pixels": 4109,
+          "proportion": 0.01
+        },
+        {
+          "hex": "#171617",
+          "pixels": 3895,
+          "proportion": 0.0095
+        }
+      ],
+      "warmLettering": [
+        {
+          "hex": "#C99568",
+          "pixels": 295,
+          "proportion": 0.0007
+        },
+        {
+          "hex": "#D69458",
+          "pixels": 262,
+          "proportion": 0.0006
+        },
+        {
+          "hex": "#775A47",
+          "pixels": 245,
+          "proportion": 0.0006
+        }
+      ],
+      "samples": [
+        {
+          "x": 0,
+          "y": 0,
+          "rgb": [
+            1,
+            1,
+            1
+          ]
+        },
+        {
+          "x": 10,
+          "y": 100,
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "x": 20,
+          "y": 300,
+          "rgb": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "x": 100,
+          "y": 100,
+          "rgb": [
+            9,
+            6,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

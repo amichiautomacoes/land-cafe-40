@@ -1,0 +1,13 @@
+.venv/
+node_modules/
+.next/
+.env
+.env.*
+!config/.env.example
+.agents/
+.cache/
+.taste-skill/
+assets/
+docs/
+config/research/
+**/__pycache__/

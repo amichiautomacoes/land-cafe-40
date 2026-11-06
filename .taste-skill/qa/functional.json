@@ -1,0 +1,69 @@
+{
+  "url": "http://127.0.0.1:5021",
+  "viewports": [
+    {
+      "width": 320,
+      "overflow": 0,
+      "badImages": [],
+      "missingAnchors": [],
+      "fontLoaded": true,
+      "titleCount": 1,
+      "javascriptErrors": [],
+      "menu": "passed",
+      "intentSelection": "passed",
+      "formSubmission": "passed"
+    },
+    {
+      "width": 390,
+      "overflow": 0,
+      "badImages": [],
+      "missingAnchors": [],
+      "fontLoaded": true,
+      "titleCount": 1,
+      "javascriptErrors": [],
+      "menu": "passed",
+      "intentSelection": "passed",
+      "formSubmission": "passed"
+    },
+    {
+      "width": 768,
+      "overflow": 0,
+      "badImages": [],
+      "missingAnchors": [],
+      "fontLoaded": true,
+      "titleCount": 1,
+      "javascriptErrors": [],
+      "menu": "desktop",
+      "intentSelection": "passed",
+      "formSubmission": "passed"
+    },
+    {
+      "width": 1440,
+      "overflow": 0,
+      "badImages": [],
+      "missingAnchors": [],
+      "fontLoaded": true,
+      "titleCount": 1,
+      "javascriptErrors": [],
+      "menu": "desktop",
+      "intentSelection": "passed",
+      "formSubmission": "passed"
+    },
+    {
+      "width": 1920,
+      "overflow": 0,
+      "badImages": [],
+      "missingAnchors": [],
+      "fontLoaded": true,
+      "titleCount": 1,
+      "javascriptErrors": [],
+      "menu": "desktop",
+      "intentSelection": "passed",
+      "formSubmission": "passed"
+    }
+  ],
+  "functional": [
+    "Navigation, content and native form remain available without JavaScript.",
+    "Reduced motion: no active animations; content visible."
+  ]
+}

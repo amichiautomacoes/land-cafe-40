@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.taste-skill/runtime/
+node_modules/
+.cache/
+playwright-report/
+test-results/
+.next/
+.vercel/
+*.tsbuildinfo
+.env.*
+!.env.example
+!config/.env.example

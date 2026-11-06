@@ -1,0 +1,110 @@
+{
+  "target": "http://127.0.0.1:5021",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/assets/design.md",
+      "status": 404
+    },
+    {
+      "path": "/.env",
+      "status": 404
+    },
+    {
+      "path": "/config/.env.example",
+      "status": 404
+    },
+    {
+      "path": "/app/content.ts",
+      "status": 404
+    },
+    {
+      "path": "/assets/references/cafe40/brand-images.json",
+      "status": 404
+    },
+    {
+      "path": "/static/fonts/OFL.txt",
+      "status": 200
+    },
+    {
+      "path": "/static/fonts/poppins-400.ttf",
+      "status": 200
+    },
+    {
+      "path": "/static/fonts/poppins-500.ttf",
+      "status": 200
+    },
+    {
+      "path": "/static/fonts/poppins-600.ttf",
+      "status": 200
+    },
+    {
+      "path": "/static/fonts/poppins-700.ttf",
+      "status": 200
+    },
+    {
+      "path": "/static/images/brand/logo.jpg",
+      "status": 200
+    },
+    {
+      "path": "/static/images/cafe40/bolo-chocolate.webp",
+      "status": 200
+    },
+    {
+      "path": "/static/images/cafe40/cappuccino.jpg",
+      "status": 200
+    },
+    {
+      "path": "/static/images/cafe40/fachada-dia.jpg",
+      "status": 200
+    },
+    {
+      "path": "/static/images/cafe40/fachada.webp",
+      "status": 200
+    },
+    {
+      "path": "/static/images/cafe40/mesa.jpg",
+      "status": 200
+    },
+    {
+      "path": "/contato?motivo=cafe",
+      "status": 303
+    },
+    {
+      "path": "/contato?motivo=trabalho",
+      "status": 303
+    },
+    {
+      "path": "/contato?motivo=encontro",
+      "status": 303
+    },
+    {
+      "path": "/contato?motivo=https%3A%2F%2Fexample.com",
+      "status": 400
+    },
+    {
+      "path": "/contato?motivo=toString",
+      "status": 400
+    },
+    {
+      "path": "/contato?motivo=__proto__",
+      "status": 400
+    },
+    {
+      "path": "/contato?motivo=constructor",
+      "status": 400
+    },
+    {
+      "path": "/contato?motivo=",
+      "status": 400
+    },
+    {
+      "path": "/contato",
+      "status": 303
+    }
+  ],
+  "unsupportedMethod": 405
+}

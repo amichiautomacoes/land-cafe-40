@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# Preserve o arquivo de licença fornecido com a fonte.
+public/static/fonts/OFL.txt -whitespace
